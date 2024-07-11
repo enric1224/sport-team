@@ -1,0 +1,96 @@
+body {
+    font-family: sans-serif;
+}
+
+body {
+    font-family: sans-serif;
+    background-color:rgba(19, 58, 194, 1) ;
+}
+
+
+h1{
+border-bottom:40px;
+background-color: rgba(0, 117, 255, 1);
+top:30px;
+border-radius: 10px;
+}
+
+a {
+  background: aqua;
+     text-align: center;
+    font-size: 40px;
+    width:50px;  
+}
+
+h2{
+    background: rgba(16, 219, 182, 1);
+    padding:10px;
+    float:right;
+    font-size: 60px;
+    width:450px;
+    border-radius: 10px;
+    border:10px solid rgb(122, 31, 31);
+    
+}
+
+.tr {
+    float:right;
+    border:35px;
+    margin: 30px;
+    background-color:white ;
+    border-radius: 13px;
+}
+ header{
+    background-color:rgba(0, 117, 255, 1) ;
+ }
+
+ .qwe {
+
+    background-color:aqua;
+    padding:20px;
+    border-radius: 10px;
+ }
+
+ .rty {
+    color:white;
+    font-size: 25px;
+ }
+
+.i {
+ text-align:center;
+}
+
+.z {
+    border-radius:20px;
+}
+
+.nerf pocho {
+    text-align:center;
+}
+
+.yui {
+    border:50px;
+    background-color: aqua;
+}
+
+.fang {
+    font-size:40px;
+}
+
+.fan {
+   font-size:40px; 
+   color:red;
+}
+
+.fa {
+   font-size:25px; 
+}
+
+.yu {
+   font-size:25px;  
+}
+
+.nerf-edgar {
+   font-size:20px; 
+    border:1px solid green; 
+}
